@@ -1,44 +1,63 @@
-# Système de Gestion des Docteurs
+# DocSelect Front-end UI/UX Project
 
-## Vue d'ensemble
+## Contexte du projet
 
-Le Système de Gestion des Docteurs est une application web conçue pour simplifier la gestion et l'interaction entre les docteurs et les patients. Cette plateforme a pour but de rationaliser le processus de gestion des informations des patients, la prise de rendez-vous, et de faciliter la communication entre le personnel médical et les patients.
+Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer le site vitrine actuel de **DocSelect** d'une seule page en un site **multi-pages** plus riche en contenu et offrant une **expérience utilisateur optimisée** pour les professionnels de santé et leurs patients. L'objectif est de mieux présenter les services de gestion de disponibilité des docteurs et de faciliter la prise de rendez-vous par les patients.
 
-Développé en utilisant HTML, CSS, et JavaScript, ce système est à la fois réactif et convivial, assurant une accessibilité sur divers appareils. Il inclut des fonctionnalités telles que la réservation de rendez-vous, la soumission de formulaires, et une interface utilisateur intuitive.
+## Objectif
 
-## Fonctionnalités
+- Migrer le site actuel vers un format multi-pages incluant les pages : Home, About, Services, Contact Us.
+- Garantir une navigation fluide et intuitive.
+- Respecter une charte graphique moderne centrée sur la santé.
+- Optimiser les performances et garantir une compatibilité mobile, tablette et desktop.
 
-- **Interaction Docteur-Patient** : Les patients peuvent consulter les profils des docteurs et planifier des rendez-vous.
-- **Prise de Rendez-vous** : Le système permet une planification fluide et simple des rendez-vous.
-- **Gestion des Formulaires** : Les patients peuvent facilement remplir des formulaires médicaux avec des instructions claires et un retour d'informations.
-- **Design Responsive** : Le site est optimisé pour différentes tailles d'écran, assurant une utilisation facile aussi bien sur ordinateur que sur mobile.
+## Fonctionnalités clés
 
-## Technologies Utilisées
+- **Structure multi-pages** : Diviser le contenu en plusieurs pages avec une navigation intuitive.
+- **Design moderne** : Créer un design adapté à tous les appareils (mobile, tablette, desktop), centré sur la santé.
+- **Contenu optimisé** : Proposer un contenu adéquat (texte et images).
+- **Optimisation des performances** : Maintenir des temps de chargement rapides malgré les nouvelles fonctionnalités.
+- **Formulaire de contact amélioré** : Ajouter des champs interactifs pour faciliter la communication des visiteurs.
 
-- **Frontend** : HTML, CSS (avec des principes modernes de design et d'harmonisation des couleurs), JavaScript
-- **Design Réactif** : Assure une utilisation aussi bien sur mobile que sur ordinateur
-- **Validation des Formulaires** : Inclus une gestion des erreurs conviviale pour la soumission des formulaires
+## Technologies requises
 
-## Comment Utiliser
+- **HTML5**
+- **CSS3**
 
-1. Cloner le Dépôt :
-   ```bash
-   git clone https://github.com/uid0Z0uh4iri/systeme-gestion-docteurs.git
-   ```
+## User Stories
 
-2. Accéder au Répertoire du Projet :
-   ```bash
-   cd systeme-gestion-docteurs
-   ```
+- En tant que **visiteur**, je veux naviguer facilement entre les différentes sections du site pour trouver rapidement les informations dont j'ai besoin.
+- En tant que **développeur Front-end UI/UX**, je dois créer des pages telles que Home, About, Services, Contact Us pour améliorer l'expérience utilisateur.
+- (Bonus) En tant qu'**UX designer**, je dois réaliser une wireframe low-fidelity pour visualiser la structure de base et la navigation du site.
 
-3. Lancer le Projet : Ouvrez le fichier `index.html` dans votre navigateur pour interagir avec le système.
+## Bonus et recommandations
 
-## Améliorations Futures
+- **Analyse des performances** : Évaluez et optimisez l'architecture existante avant la migration.
+- **Conformité W3C** : Assurez-vous que le code HTML et CSS est conforme aux normes du W3C.
+- **Tests d'accessibilité** : Utilisez des outils comme Axe ou WAVE pour tester et améliorer l'accessibilité.
+- **Déploiement GitHub Pages** : Hébergez le site final sur GitHub Pages pour le rendre public.
 
-- Intégration d'un backend pour le stockage persistant des données (par exemple, avec une base de données comme MySQL ou MongoDB)
-- Système de connexion sécurisé pour les docteurs et les patients
-- Système de notifications pour les rappels de rendez-vous
+## Modalités pédagogiques
 
----
+- **Travail** : Individuel.
+- **Durée** : 2 jours.
+- **Date limite** : 11/10/2024 à 17:30.
 
-N'hésitez pas à contribuer à ce projet ou à signaler des problèmes dans la section des issues.
+## Modalités d'évaluation
+
+- Durée de 10 minutes.
+- Évaluation du respect des exigences fonctionnelles et des fonctionnalités clés.
+- Validation du site via les validateurs HTML/CSS du W3C.
+- Tests de compatibilité avec différents navigateurs et appareils.
+- Tests d'accessibilité.
+- Session de Q/A.
+
+## Livrables
+
+1. **Lien vers le repo GitHub** contenant le code source (HTML/CSS) et tous les assets.
+2. **Lien vers le site web hébergé** sur GitHub Pages.
+
+### Bonus
+
+- Wireframe low-fidelity d'une page.
+# Doctor
